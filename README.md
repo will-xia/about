@@ -3,7 +3,7 @@
   <tr>
     <th>学校</th>
     <th>专业</th>
-    <th>综排</th>
+    <th>综排US News</th>
     <th>专排</th>
     <th>公私</th>
     <th>地址</th>
@@ -17,8 +17,8 @@
   <tr>
     <td>Northeastern</td>
     <td>CS-Align</td>
-    <td>39</td>
-    <td>34</td>
+    <td>44</td>
+    <td>11</td>
     <td>私</td>
     <td>Sillicon Valley</td>
     <td>36m</td>
@@ -31,7 +31,7 @@
   <tr>
     <td>UW-Tacoma</td>
     <td>CSS</td>
-    <td>26</td>
+    <td>55</td>
     <td>7</td>
     <td>私</td>
     <td>Seattle-Tacoma, Washington</td>
