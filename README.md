@@ -1,15 +1,12 @@
 # weixia
 <table>
   <tr>
-    <th>学校名称</th>
-    <th>DDL</th>
-    <th>申请日期</th>
-    <th>AD</th>
+    <th>学校</th>
+    <th>专业</th>
     <th>综排</th>
     <th>专排</th>
     <th>公私</th>
     <th>地址</th>
-    <th>位置（东中西）</th>
     <th>学制</th>
     <th>学费/年</th>
     <th>生活费/年</th>
@@ -22,8 +19,6 @@
     <td>CS-Align</td>
     <td>176</td>
     <td>34</td>
-    <td></td>
-    <td></td>
     <td>私</td>
     <td>Sillicon Valley</td>
     <td>36m</td>
@@ -38,8 +33,6 @@
     <td>CSS</td>
     <td>26</td>
     <td>7</td>
-    <td></td>
-    <td></td>
     <td>私</td>
     <td>Seattle-Tacoma, Washington</td>
     <td>24m</td>
@@ -54,8 +47,6 @@
     <td>DS Certification</td>
     <td>813</td>
     <td>89</td>
-    <td></td>
-    <td></td>
     <td>公</td>
     <td>Newark, New Jersey</td>
     <td>24m</td>
@@ -70,10 +61,7 @@
     <td>Appl Stat &amp; Data Scie MS NT</td>
     <td>299</td>
     <td>89</td>
-    <td></td>
-    <td></td>
     <td>公</td>
-    <td>701 S. Nedderman Drive<br>Arlington, TX 76019</td>
     <td>Arlington, TX</td>
     <td>24m</td>
     <td>23,838</td>
