@@ -70,4 +70,18 @@
     <td>76,918</td>
     <td>538,426</td>
   </tr>
+    <tr>
+    <td>UMSL</td>
+    <td>CS</td>
+    <td>1148</td>
+    <td>无</td>
+    <td>公</td>
+    <td>St. Louis, MO</td>
+    <td>24m</td>
+    <td>26,900</td>
+    <td>16,170</td>
+    <td>43,070</td>
+    <td>86,140</td>
+    <td>602,980</td>
+  </tr>
 </table>
