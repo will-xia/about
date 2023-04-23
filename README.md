@@ -17,7 +17,7 @@
   <tr>
     <td>Northeastern</td>
     <td>CS-Align</td>
-    <td>176</td>
+    <td>39</td>
     <td>34</td>
     <td>私</td>
     <td>Sillicon Valley</td>
