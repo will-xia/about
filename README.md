@@ -3,8 +3,8 @@
   <tr>
     <th>学校</th>
     <th>专业</th>
-    <th>综排US News</th>
-    <th>专排</th>
+    <th>综排(US News)</th>
+    <th>专排(CS Ranking)</th>
     <th>公私</th>
     <th>地址</th>
     <th>学制</th>
