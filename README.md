@@ -1,4 +1,4 @@
-# weixia
+# Wei Xia
 <table>
   <tr>
     <th>学校</th>
@@ -33,7 +33,7 @@
     <td>CSS</td>
     <td>55</td>
     <td>7</td>
-    <td>私</td>
+    <td>公</td>
     <td>Seattle-Tacoma, Washington</td>
     <td>24m</td>
     <td>23,780</td>
@@ -41,20 +41,6 @@
     <td>43,088</td>
     <td>86,176</td>
     <td>603,232</td>
-  </tr>
-  <tr>
-    <td>NJIT</td>
-    <td>DS Certification</td>
-    <td>813</td>
-    <td>89</td>
-    <td>公</td>
-    <td>Newark, New Jersey</td>
-    <td>24m</td>
-    <td>34,260</td>
-    <td>23,628</td>
-    <td>57,888</td>
-    <td>81,516</td>
-    <td>570,612</td>
   </tr>
   <tr>
     <td>UT-Arlington</td>
@@ -69,6 +55,20 @@
     <td>38,459</td>
     <td>76,918</td>
     <td>538,426</td>
+  </tr>
+  <tr>
+    <td>NJIT</td>
+    <td>DS Certification</td>
+    <td>813</td>
+    <td>89</td>
+    <td>公</td>
+    <td>Newark, New Jersey</td>
+    <td>24m</td>
+    <td>34,260</td>
+    <td>23,628</td>
+    <td>57,888</td>
+    <td>81,516</td>
+    <td>570,612</td>
   </tr>
     <tr>
     <td>UMSL</td>
