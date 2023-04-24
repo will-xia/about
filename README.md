@@ -15,7 +15,7 @@
     <th>总计（RMB）</th>
   </tr>
   <tr>
-    <td>Northeastern</td>
+    <td>NEU-SV</td>
     <td>CS-Align</td>
     <td>44</td>
     <td>11</td>
