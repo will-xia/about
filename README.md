@@ -1,25 +1,25 @@
 # Wei Xia
 <table>
   <tr>
-    <th>学校</th>
-    <th>专业</th>
-    <th>综排(US News)</th>
-    <th>专排(CS Ranking)</th>
-    <th>公私</th>
-    <th>地址</th>
-    <th>学制</th>
-    <th>学费/年</th>
-    <th>生活费/年</th>
-    <th>合计/年</th>
-    <th>总计（USD）</th>
-    <th>总计（RMB）</th>
+    <th>University</th>
+    <th>Major</th>
+    <th>General Ranking(US News)</th>
+    <th>Major Ranking(CS Ranking)</th>
+    <th>Public/Private</th>
+    <th>Location</th>
+    <th>Peoriod</th>
+    <th>Tution/Y</th>
+    <th>Living Fee/Y</th>
+    <th>Sum/Y</th>
+    <th>Total（USD）</th>
+    <th>Total（RMB）</th>
   </tr>
   <tr>
     <td>NEU-SV</td>
     <td>CS-Align</td>
     <td>44</td>
     <td>11</td>
-    <td>私</td>
+    <td>Private</td>
     <td>Sillicon Valley</td>
     <td>36m</td>
     <td>25005</td>
@@ -33,7 +33,7 @@
     <td>CSS</td>
     <td>55</td>
     <td>7</td>
-    <td>公</td>
+    <td>Public</td>
     <td>Seattle-Tacoma, Washington</td>
     <td>24m</td>
     <td>23,780</td>
@@ -42,12 +42,26 @@
     <td>86,176</td>
     <td>603,232</td>
   </tr>
+    <tr>
+    <td>University of Pittsburgh</td>
+    <td>Information Science</td>
+    <td>62</td>
+    <td>57</td>
+    <td>Public</td>
+    <td>Pittsburgh, Pennsylvania</td>
+    <td>24m</td>
+    <td>44,504</td>
+    <td>20,896</td>
+    <td>65,400</td>
+    <td>130,800</td>
+    <td>915,600</td>
+  </tr>
   <tr>
     <td>UT-Arlington</td>
     <td>Appl Stat &amp; Data Scie MS NT</td>
     <td>299</td>
     <td>89</td>
-    <td>公</td>
+    <td>Public</td>
     <td>Arlington, TX</td>
     <td>24m</td>
     <td>23,838</td>
@@ -61,7 +75,7 @@
     <td>DS Certification</td>
     <td>813</td>
     <td>89</td>
-    <td>公</td>
+    <td>Public</td>
     <td>Newark, New Jersey</td>
     <td>24m</td>
     <td>34,260</td>
@@ -74,8 +88,8 @@
     <td>UMSL</td>
     <td>CS</td>
     <td>1148</td>
-    <td>无</td>
-    <td>公</td>
+    <td>None</td>
+    <td>Public</td>
     <td>St. Louis, MO</td>
     <td>24m</td>
     <td>26,900</td>
