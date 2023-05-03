@@ -7,7 +7,7 @@
     <th>Major Ranking(CS Ranking)</th>
     <th>Public/Private</th>
     <th>Location</th>
-    <th>Peoriod</th>
+    <th>Period</th>
     <th>Tution/Y</th>
     <th>Living Fee/Y</th>
     <th>Sum/Y</th>
@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>NEU-SV</td>
-    <td>CS-Align</td>
+    <td>Computer Science-Align</td>
     <td>44</td>
     <td>11</td>
     <td>Private</td>
@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td>UW-Tacoma</td>
-    <td>CSS</td>
+    <td>Computer Science and Systems</td>
     <td>55</td>
     <td>7</td>
     <td>Public</td>
@@ -45,6 +45,21 @@
     <tr>
     <td>University of Pittsburgh</td>
     <td>Information Science</td>
+    <td>62</td>
+    <td>57</td>
+    <td>Public</td>
+    <td>Pittsburgh, Pennsylvania</td>
+    <td>24m</td>
+    <td>44,504</td>
+    <td>20,896</td>
+    <td>65,400</td>
+    <td>130,800</td>
+    <td>915,600</td>
+  </tr>
+   </tr>
+    <tr>
+    <td>University of Texas--Dallas</td>
+    <td>Computer Science</td>
     <td>62</td>
     <td>57</td>
     <td>Public</td>
@@ -86,7 +101,7 @@
   </tr>
     <tr>
     <td>UMSL</td>
-    <td>CS</td>
+    <td>Computer Science</td>
     <td>1148</td>
     <td>None</td>
     <td>Public</td>
