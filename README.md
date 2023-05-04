@@ -18,7 +18,7 @@
     <td>NEU-SV</td>
     <td>Computer Science-Align</td>
     <td>44</td>
-    <td>11</td>
+    <td>14</td>
     <td>Private</td>
     <td>Sillicon Valley</td>
     <td>36m</td>
@@ -46,7 +46,7 @@
     <td>University of Pittsburgh</td>
     <td>Information Science</td>
     <td>62</td>
-    <td>57</td>
+    <td>45</td>
     <td>Public</td>
     <td>Pittsburgh, Pennsylvania</td>
     <td>24m</td>
@@ -58,14 +58,14 @@
   </tr>
   </tr>
     <tr>
-    <td>University of Texas--Dallas</td>
+    <td>UT--Dallas</td>
     <td>Computer Science</td>
     <td>151</td>
-    <td>57</td>
+    <td>55</td>
     <td>Public</td>
     <td>Dallas, Texas</td>
     <td>24m</td>
-    <td>39,776</td>
+    <td>29,252</td>
     <td>12,142</td>
     <td>51,918</td>
     <td></td>
@@ -75,7 +75,7 @@
     <td>UT-Arlington</td>
     <td>Appl Stat &amp; Data Scie MS NT</td>
     <td>299</td>
-    <td>89</td>
+    <td>61</td>
     <td>Public</td>
     <td>Arlington, TX</td>
     <td>24m</td>
