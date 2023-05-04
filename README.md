@@ -56,20 +56,20 @@
     <td>130,800</td>
     <td>915,600</td>
   </tr>
-   </tr>
+  </tr>
     <tr>
     <td>University of Texas--Dallas</td>
     <td>Computer Science</td>
-    <td>62</td>
+    <td>151</td>
     <td>57</td>
     <td>Public</td>
-    <td>Pittsburgh, Pennsylvania</td>
+    <td>Dallas, Texas</td>
     <td>24m</td>
-    <td>44,504</td>
-    <td>20,896</td>
-    <td>65,400</td>
-    <td>130,800</td>
-    <td>915,600</td>
+    <td>39,776</td>
+    <td>12,142</td>
+    <td>51,918</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>UT-Arlington</td>
