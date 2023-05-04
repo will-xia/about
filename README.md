@@ -65,11 +65,11 @@
     <td>Public</td>
     <td>Dallas, Texas</td>
     <td>24m</td>
-    <td>29,252</td>
-    <td>12,142</td>
-    <td>51,918</td>
-    <td></td>
-    <td></td>
+    <td>28,892</td>
+    <td>23,698</td>
+    <td>52,590</td>
+    <td>105,180</td>
+    <td>736,260</td>
   </tr>
   <tr>
     <td>UT-Arlington</td>
